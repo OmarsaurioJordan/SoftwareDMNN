@@ -38,7 +38,7 @@ function than can be used in other projects, togheter to export of net method.
 
 ## Support & Author
 
-I am Omar Jordan Jordan, my developer name is Omarsaurio, I create videogames and educational software most time.
+I am Omar Jordan Jordan, my developer name is Omwekiatl (last time Omarsaurio), I create videogames and educational software most time.
 
 mail: [ojorcio@gmail.com]
 
