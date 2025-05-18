@@ -25,7 +25,7 @@ chain_with_the_commands
 The project contains a **compilar.txt file**, it has the chain with the commands, but if you realize some changes in the code, the
 **SoftwareDMNN.py** has a description of the commands to compile, and a function to create the text chain.
 
-You can use a **SoftwareDMNN.exe** here: ...
+You can use a **SoftwareDMNN.exe** here: https://omwekiatl.itch.io/softwaredmnn
 
 ## Usage
 
